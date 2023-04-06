@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Stacey</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="left">I'm a fullstack developer</h3>
 
 - 👨‍💻 I’m currently working on **a game of connect four, playable against my own AI**
 
