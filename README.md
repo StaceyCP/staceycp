@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Stacey</h1>
 <h3 align="left">I'm a fullstack developer</h3>
 
-- 👨‍💻 I’m currently working on **a game of connect four, playable against my own AI**
+- 👨‍💻 I’m currently working as a Junior software developer at Krakenflex 🐙
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **python and AWS** 
 
 - 💬 Ask me about **PSQL, Express and React**
 
